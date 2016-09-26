@@ -1,0 +1,13 @@
+package com.java.assignment1;
+
+public class Declarevariable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a, b=4 ,c;
+		System.out.println("Output not applicable");
+		
+	}
+
+}
